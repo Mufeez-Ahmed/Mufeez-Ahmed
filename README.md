@@ -16,19 +16,27 @@
 <h1 align="center">My favorite projects 💻</h1>
 <br />
 
-<p align="center">
-  <a href="https://github.com/Mufeez-Ahmed/FIXIT" style="display: inline-block; width: 48%; text-decoration: none; color: inherit; margin-right: 2%;">
-    <img src="project1.png" width="100%" style="border-radius:10px; border: 1px solid #30363d;" />
-    <h3 align="center">FIXIT</h3>
-    <p align="center">Full-stack state grievance portal. Built with React and Spring Boot.</p>
-  </a>
-
-  <a href="https://github.com/Mufeez-Ahmed/SkyCast" style="display: inline-block; width: 48%; text-decoration: none; color: inherit;">
-    <img src="project2.png" width="100%" style="border-radius:10px; border: 1px solid #30363d;" />
-    <h3 align="center">SkyCast – A Responsive Weather Experience</h3>
-    <p align="center">SkyCast is a sleek and responsive weather application that delivers real-time forecasts with a beautifully animated interface.</p>
-  </a>
-</p>
+<table align="center" width="100%" border="0" cellspacing="0" cellpadding="0">
+  <tr>
+    <td align="center" width="48%" valign="top">
+      <a href="https://github.com/Mufeez-Ahmed/FIXIT">
+        <img src="project1.png" width="100%" style="border-radius:10px; border: 1px solid #30363d;" />
+      </a>
+      <br /><br />
+      <a href="https://github.com/Mufeez-Ahmed/FIXIT"><h3>🏛️ FIXIT</h3></a>
+      <p align="center">Full-stack state grievance portal. Built with React and Spring Boot.</p>
+    </td>
+    <td width="4%"></td>
+    <td align="center" width="48%" valign="top">
+      <a href="https://github.com/Mufeez-Ahmed/SkyCast">
+        <img src="project2.png" width="100%" style="border-radius:10px; border: 1px solid #30363d;" />
+      </a>
+      <br /><br />
+      <a href="https://github.com/Mufeez-Ahmed/SkyCast"><h3>🌤️ SkyCast</h3></a>
+      <p align="center">A sleek weather application delivering real-time forecasts with a beautifully animated interface.</p>
+    </td>
+  </tr>
+</table>
 
 <br clear="both" />
 <hr />
