@@ -7,7 +7,7 @@
 <p align="center">
   <strong>Engineering Student | Full Stack Developer | VLSI Enthusiast</strong>
 </p>
-### 🛠 Technologies & Tools
+<h2 align="left">🛠️ Technical Arsenal & Specialized Tools</h2>
 
 <p align="left">
   <img src="https://skillicons.dev/icons?i=html,css,js,nodejs,react,tailwind,java,spring,mysql,mongodb,matlab,git,vscode,postman&perline=12" />
