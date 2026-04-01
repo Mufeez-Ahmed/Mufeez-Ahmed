@@ -10,7 +10,7 @@
 ### 🛠 Technologies & Tools
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,java,spring,mysql,matlab,git,vscode,postman&perline=6" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,nodejs,react,tailwind,java,spring,mysql,mongodb,matlab,git,vscode,postman&perline=12" />
 </p>
 
 ---
