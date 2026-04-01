@@ -14,5 +14,50 @@
 </p>
 
 ---
+<h1 align="center">My favorite projects 💻</h1>
+<br />
 
+<table border="0">
+  <tr>
+    <td width="50%" align="center">
+      <a href="https://github.com/mufeezahmed/Citizen-Portal">
+        <img src="https://raw.githubusercontent.com/mufeezahmed/mufeezahmed/main/project1.png" width="100%" style="border-radius:10px;" alt="Citizen Portal Preview" />
+      </a>
+      <br />
+      <h3>🏛️ Citizen Grievance Portal</h3>
+      <p>Full-stack React & Spring Boot portal for grievance redressal with reCAPTCHA v3 and cloud integration.</p>
+    </td>
+    
+    <td width="50%" align="center">
+      <a href="https://github.com/mufeezahmed/CabSystemSMS">
+        <img src="https://raw.githubusercontent.com/mufeezahmed/mufeezahmed/main/project2.png" width="100%" style="border-radius:10px;" alt="Cab System Preview" />
+      </a>
+      <br />
+      <h3>🚖 Cab Management System</h3>
+      <p>Driver and Admin dashboards built with React and Spring Boot featuring real-time SMS tracking.</p>
+    </td>
+  </tr>
+  
+  <tr>
+    <td width="50%" align="center">
+      <a href="#">
+        <img src="https://raw.githubusercontent.com/mufeezahmed/mufeezahmed/main/project3.png" width="100%" style="border-radius:10px;" alt="VLSI Automation Preview" />
+      </a>
+      <br />
+      <h3>🛠️ EDA Tool Automation</h3>
+      <p>TCL scripting for Physical Design automation in Cadence Innovus and Virtuoso workflows.</p>
+    </td>
+    
+    <td width="50%" align="center">
+      <a href="#">
+        <img src="https://raw.githubusercontent.com/mufeezahmed/mufeezahmed/main/project4.png" width="100%" style="border-radius:10px;" alt="ECG Filter Preview" />
+      </a>
+      <br />
+      <h3>🧬 Neural Network ECG Filter</h3>
+      <p>Deep Learning-driven IIR filter design for Baseline Wander removal in wearable ECG systems.</p>
+    </td>
+  </tr>
+</table>
+
+---
 ---
